@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... digital forensics/cybersecurity
 - 💞️ I’m looking to collaborate on ... anything I can 
 - 📫 How to reach me ... spencerfox.cyber@yahoo.com
-- ⚡ Fun fact: ... I love anime
+- ⚡ Fun fact: ... I enjoy watching tv and anime
 
 <!---
 foxxszn/foxxszn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
